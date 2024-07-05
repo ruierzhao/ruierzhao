@@ -23,6 +23,8 @@
 
 # 🏹 Main Skills
 
+<div>
+
 <a href="https://nodejs.org/en/docs/guides">
   <img src="./assets/node.svg" alt="node" height="100" title="Node documentation">
 </a>
@@ -54,6 +56,7 @@
   <img src="./assets/habr.png" alt="mesh" height="100" title="iOS reference">
 </a>
 
+</div>
 <!-- go run gif -->
 <div align="center">
   <a href="https://go.dev/"><img src="./assets/go_run.gif"></a>
@@ -247,6 +250,38 @@
   ]
 }
 ```
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+<script>
+  console.log("from ruier readme.md")
+</script>
+
 
 # 🧡 Thanks for visiting
 
