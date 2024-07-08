@@ -1,6 +1,6 @@
-![profile](assets/header.svg)
+![](assets/header.svg)
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=300&vCenter=true&random=false&width=435&separator=%3C&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8Ccoder...%3Cconsole.log(%22hello+javascript~%22)%3CSystem.out.println(%22hello+Java~%22);%3Cfmt.Println(%22hello+golang~%22)%3Cprint(%22hello+Python~%22)>)](https://git.io/typing-svg)
+[![](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=300&vCenter=true&random=false&width=435&separator=%3C&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8Ccoder...%3Cconsole.log(%22hello+javascript~%22)%3CSystem.out.println(%22hello+Java~%22);%3Cfmt.Println(%22hello+golang~%22)%3Cprint(%22hello+Python~%22)>)](https://git.io/typing-svg)
 
 <!-- TAGS -->
 <p align="center">
@@ -15,20 +15,14 @@
 
 ![](./assets/header_.png)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruierzhao)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruierzhao) -->
-
-<!-- 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruierzhao)
 <p>
 <a href="https://go.dev"><img src="https://github-readme-stats.vercel.app/api?username=ruierzhao"></a>
 </p> -->
 
-
 <!--   my-header-go-img   -->
 
-<a href="https://go.dev"><img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/projects/surfing-js.svg" align="right" height="48" width="48" ></a>
+<a href="https://go.dev"><img src="assets/surfing-gojs.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-header-img -->
 
@@ -74,7 +68,7 @@
 </div>
 <!-- go run gif -->
 
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/egonelbre/gophers/master/vector/friends/heart-hug.svg" align="right" height="48" width="48" ></a>
+<a href="#"><img src="assets/heart-hug.svg" align="right" height="48" width="48" ></a>
 
 <!-- tools & technologies   -->
 
@@ -86,6 +80,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -102,16 +100,8 @@
       <br>Webpack
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -119,7 +109,7 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     <td align="center" width="96">
@@ -131,20 +121,12 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
@@ -155,43 +137,35 @@
       <br>jQuery
     </td>
   </tr>
- <tr>
-      <td align="center" width="96">
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-        <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <br>Nodejs
       </td>
       </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
-    </td>
+      </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-              <td align="center" width="96">
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
  </tr>
 </table>
@@ -211,8 +185,9 @@
 
 # 🎨 Data graph
 
-<!-- <img src="assets/github-metrics.svg" alt="Metrics" width="100%"> -->
-<img src="github-metrics.svg" alt="Metrics" width="100%">
+<a href="https://github.com/lowlighter/metrics">
+  <img src="github-metrics.svg"/>
+</a>
 
 <p align="center">
   <a href="https://github.com/ruierzhao?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ruierzhao&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
@@ -220,48 +195,17 @@
 
 </p>
 
-<a href="https://go.dev/play/"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
+<a href="#"><img src="./assets/colored.png"  width="100%" alt=""/></a>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruierzhao&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruierzhao&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" >
     </a>
 </p>
 
-
-
 <!-- kunming - My Home-->
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              102.7,
-              24.9
-            ],
-            [
-              102.8,
-              25.1
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+<script src="./assets/location.geojson"></script>
 
 # 🧡 Thanks for visiting
 
@@ -271,11 +215,11 @@
 ![](https://count.getloli.com/get/@:name)
 </br>
 
-
 <!-- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"> -->
-![](assets/github-contribution-grid-snake.svg)
-<!-- VISIT -->
 
+![](assets/github-contribution-grid-snake.svg)
+
+<!-- VISIT -->
 
 [MIT](LICENSE)
 
