@@ -1,4 +1,4 @@
-![profile](assets/Bottom_up.svg)
+![profile](assets/header.svg)
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=300&vCenter=true&random=false&width=435&separator=%3C&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8Ccoder...%3Cconsole.log(%22hello+javascript~%22)%3CSystem.out.println(%22hello+Java~%22);%3Cfmt.Println(%22hello+golang~%22)%3Cprint(%22hello+Python~%22)>)](https://git.io/typing-svg)
 
@@ -14,6 +14,17 @@
 <!-- TAGS -->
 
 ![](./assets/header_.png)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruierzhao)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruierzhao) -->
+
+<!-- 
+<p>
+<a href="https://go.dev"><img src="https://github-readme-stats.vercel.app/api?username=ruierzhao"></a>
+</p> -->
+
 
 <!--   my-header-go-img   -->
 
@@ -217,8 +228,6 @@
 
 <!-- <img src="assets/github-metrics.svg" alt="Metrics" width="100%"> -->
 
-<!-- activity graph heroku-app end -->
-
 <!-- kunming - My Home-->
 
 ```geojson
@@ -250,38 +259,6 @@
   ]
 }
 ```
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
-<script>
-  console.log("from ruier readme.md")
-</script>
-
 
 # 🧡 Thanks for visiting
 
