@@ -268,14 +268,12 @@
 <!-- VISIT -->
 
 ![](https://count.getloli.com/get/@:name)
-![:ruierzhao](https://count.getloli.com/get/@:name)
+![](https://count.getloli.com/get/@:name)
 </br>
 
-<!-- <p align="center">
-<a href="https://github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Visitor's Count" /></a>
-</p> -->
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<!-- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"> -->
+![](assets/github-contribution-grid-snake.svg)
 <!-- VISIT -->
 
 
