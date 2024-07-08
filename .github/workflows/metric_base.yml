@@ -17,7 +17,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.stargazers.worldmap.svg
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts: no
