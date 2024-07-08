@@ -186,7 +186,7 @@
 # 🎨 Data graph
 
 <a href="https://github.com/lowlighter/metrics">
-  <img src="github-metrics.svg"/>
+  <img src="github-metrics.svg" width="100%"/>
 </a>
 
 <p align="center">
@@ -195,7 +195,7 @@
 
 </p>
 
-<a href="#"><img src="./assets/colored.png"  width="100%" alt=""/></a>
+<a href="#"><img src="./assets/colored.png"  width="100%"/></a>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -205,8 +205,68 @@
 </p>
 
 <!-- kunming - My Home-->
-<script src="./assets/location.geojson"></script>
+```geojson
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": 1,
+        "properties": {
+          "ID": 0
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                102.7, 24.9
+              ],
+              [
+                102.8, 25.1
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+```
 
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
 # 🧡 Thanks for visiting
 
 <!-- VISIT -->
