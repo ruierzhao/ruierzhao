@@ -19,25 +19,25 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata  # базовый контент (информация о пользователе) # 不知道是啥意思
 
-          # 点赞地图
+          ### 点赞地图
           plugin_stargazers: yes
           plugin_stargazers_charts: no
           plugin_stargazers_worldmap: yes
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           plugin_stargazers_worldmap_sample: 200
 
-          # random code snippet
-          plugin_code: yes
+          ### random code snippet
+          plugin_code: no
           plugin_code_languages: javascript, typescript, go, dart
           plugin_code_days: 365
           plugin_code_load: 400
 
-          # contribution record
+          ### contribution record
           plugin_isocalendar: yes
-          # plugin_isocalendar_duration: full-year
           plugin_isocalendar_duration: half-year
+          # plugin_isocalendar_duration: full-year
 
-          # recently star repo
+          ### recently star repo
           plugin_stars: yes
           plugin_stars_limit: 5
 

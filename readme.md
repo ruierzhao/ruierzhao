@@ -4,12 +4,25 @@
 
 <!-- TAGS -->
 <p align="center">
+    <a href="https://go.dev">
+      <img src="https://img.shields.io/badge/go-v1.22-blue?logo=go">
+    </a>
+    <a href="https://nodejs.cn/api/index.html">
+      <img src="https://img.shields.io/badge/node-v22.4-5FA04E?logo=nodedotjs">
+    </a>
     <a href="https://github.com/python/cpython">
-      <img src="https://img.shields.io/badge/Python-3.10-FF1493.svg">
+      <img src="https://img.shields.io/badge/Python-3.10-FF1493.svg?logo=python">
+    </a>
+    <a href="https://github.com/python/cpython">
+      <img src="https://img.shields.io/badge/GDAL-3.9.1-5CAE58.svg?logo=gdal">
+    </a>
+    <a href="https://github.com/python/cpython">
+      <img src="https://img.shields.io/badge/osgeo-8D7ACF.svg?logo=osgeo">
     </a>
     <a href="https://github.com/golang/go/stargazers">
       <img src="https://img.shields.io/github/stars/golang/go.svg?logo=github">
     </a>
+
 </p>
 <!-- TAGS -->
 
@@ -199,7 +212,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
+    <a href="https://wakatime.com/@raino">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruierzhao&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" >
     </a>
 </p>
