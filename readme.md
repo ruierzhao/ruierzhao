@@ -1,6 +1,3 @@
----
-permalink: /a.html
----
 ![](assets/header.svg)
 
 [![](<https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=300&vCenter=true&random=false&width=435&separator=%3C&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8Ccoder...%3Cconsole.log(%22hello+javascript~%22)%3CSystem.out.println(%22hello+Java~%22);%3Cfmt.Println(%22hello+golang~%22)%3Cprint(%22hello+Python~%22)>)](https://git.io/typing-svg)
