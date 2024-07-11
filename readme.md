@@ -62,7 +62,7 @@
   <img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation">
 </a>
 <a href="https://flutter.dev/">
-  <img src="./assets/flutter.svg" alt="flutter" height="100" title="React-Native documentation">
+  <img src="./assets/flutter.svg" alt="flutter" height="100" title="flutter documentation">
 </a>
 <a href="https://developer.android.com/reference">
   <img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference">
@@ -74,7 +74,7 @@
   <img src="./assets/gdal.svg" alt="ios" height="100" title="iOS reference">
 </a>
 <a href="#">
-  <img src="./assets/habr.png" alt="mesh" height="100" title="iOS reference">
+  <img src="./assets/habr.png" alt="mesh" height="100" title="">
 </a>
 
 </div>
