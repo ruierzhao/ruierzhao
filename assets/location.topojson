@@ -1,1 +1,2 @@
+{"type":"Topology","objects":{"test":{"type":"GeometryCollection","geometries":[{"type":"Polygon","arcs":[[0]],"id":1,"properties":{"ID":0}}]}},"arcs":[[[0,0],[999999,999999],[-999999,-999999]]],"bbox":[102.7,24.9,102.8,25.1],"transform":{"scale":[1.0000010000009431e-7,2.0000020000020284e-7],"translate":[102.7,24.9]}}
 
