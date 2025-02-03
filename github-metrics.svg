@@ -1243,6 +1243,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1263,7 +1270,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheAlgorithms/Dart</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All Algorithms implemented in Dart</div>
@@ -1316,7 +1323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Dasongzi1366/AutoGo</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一个使用 Golang 构建的 Android 自动化测试框架，旨在高效且灵活地与 Android 设备进行交互。它支持 UI 自动化、系统交互以及自定义自动化任务。</div>
@@ -1363,7 +1370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sl-Sanda-Ru/Payhere-Android-Bypass-Frida</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1417,7 +1424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r0ysue/r0capture</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">安卓应用层抓包通杀脚本</div>
@@ -1470,7 +1477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gioui/gio</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio)</div>
@@ -1776,7 +1783,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Feb 2025, 00:56:27  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Feb 2025, 00:54:52  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
