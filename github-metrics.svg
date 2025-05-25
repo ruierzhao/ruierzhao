@@ -1237,6 +1237,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1258,7 +1263,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>freeplane/docs</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1306,7 +1311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gwaldron/osgearth</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">3D Maps for OpenSceneGraph / C++14</div>
@@ -1359,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SpaceTimee/Fusion-JetBrainsMapleMono</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono &amp; Maple Mono</div>
@@ -1406,7 +1411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lxgw/LxgwWenKai</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</div>
@@ -1459,7 +1464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/material-design-icons</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material Design icons by Google (Material Symbols)</div>
@@ -1759,7 +1764,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 May 2025, 01:00:23  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2025, 01:08:45  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
