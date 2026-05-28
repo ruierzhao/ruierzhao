@@ -1278,6 +1278,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1299,7 +1304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rofrol/awesome-wgpu</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of wgpu code and resources.</div>
@@ -1340,7 +1345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ckjbug/kali-Linux-learning</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐺Kali Linux学习资料（Books&amp;WebSites）</div>
@@ -1381,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swc-project/swc</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust-based platform for the Web</div>
@@ -1434,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aakashadesara/ctop</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CTOP - Interactive Process Viewer for AI Coding Agents</div>
@@ -1487,7 +1492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zxwk1998/vue-admin-better</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro</div>
@@ -1793,7 +1798,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 May 2026, 02:42:25  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2026, 02:29:20  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
